@@ -1,1 +1,1 @@
-console.log("My name is Sharifdeen, I am 35 years and my favorite programming language is PHP. Thank you")
+console.log("My name is Sharifdeen, I am 35 years and my favorite programming language is PHP and javascript. Thank you")
